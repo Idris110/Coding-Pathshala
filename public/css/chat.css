@@ -1,0 +1,30 @@
+ .container{
+   display: flex;
+   justify-content: left;
+ }
+ /* <video width="320" height="240" controls>
+ <source src="movie.mp4" type="video/mp4">
+ <source src="movie.ogg" type="video/ogg"> */
+ .video{
+  display: block;
+ }
+.comments{
+    width: 277px;
+    margin: 20px;
+  }
+  .home-desc{
+    display: none;
+  }
+  .hidden1 , .hidden2 {
+      display: none;
+  }
+  /* #hcb_form_name{
+      display: none;
+  } */
+ #HCB_comment_box h3{
+   display: none;
+ }
+
+ #hcb_form_name{
+  display: none !important;
+ }
